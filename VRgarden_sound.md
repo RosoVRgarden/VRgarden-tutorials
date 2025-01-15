@@ -1,4 +1,4 @@
-# VRgarden tutorials - VRgarden - Adding sound
+# VRgarden tutorials - adding sound
 
 ## Introduction
 
