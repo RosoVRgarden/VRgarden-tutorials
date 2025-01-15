@@ -32,4 +32,4 @@
 
 7. Designing the VR ladder. Although the ladder seems to only fulfil a technical requirement, there are existing design that might be interesting to copy. This is one is from the TV series Hannibal (2013-2015).
 
-<p align="left"><img src="images/climbable8.jpg"/></p>
+<p align="left"><img src="images/climbable8.png"/></p>
