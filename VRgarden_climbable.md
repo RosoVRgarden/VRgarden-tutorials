@@ -11,9 +11,8 @@
 
 |<p align="left"><img src="images/climbable2.jpg"/></p>|<p align="left"><img src="images/climbable3.jpg"/></p>|
 
-| Attempt | #1  | #2  |
-| ------- | --- | --- |
-| Seconds | 301 | 283 |
+| <img src="images/climbable2.jpg"/> | <img src="images/climbable3.jpg"/>  | #2  |
+
 
 
 3. The Handles (Climbable) is the parent that contains all the handles. On this object, you will add the Climb Interactable componenent. Only the Y movement is allowed and the collider is set yo volume. Finally, drag the <b>XR Interaction Manager</b> from the hierarchy to the Interaction Manager space
