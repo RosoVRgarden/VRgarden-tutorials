@@ -8,7 +8,7 @@ Go to Assets &gt;<span class="Apple-converted-space">  </span>Create &gt; Audio
 <p align="left"><img src="images/audio03.png"/></p>
 
 2. Create an empty GameObject &gt; Create Empty</p>
-<p align="left"><img src="images/audio05.png"/></p>
+<p align="left"><img src="images/audio05.jpg"/></p>
 
 3. Add a component to the GameObject: Audio Source</p>
 
