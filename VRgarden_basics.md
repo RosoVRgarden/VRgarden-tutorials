@@ -18,7 +18,7 @@
 	
 <p align="left"><img src="images/basic05.jpg"/></p>
 	
-5. The Package Manager is the place where you install and update optional packages. Choose Unity Registry for Unity Packages (such as the XR Interaction Toolkit, OpenXR) or My Assets for the packages used in RosoVRgarden (https://shorturl.at/xgCcb). Click Install or Update depending on your situation.
+5. The Package Manager is the place where you install and update optional packages. Choose Unity Registry for Unity Packages (such as the XR Interaction Toolkit, OpenXR) or My Assets for the packages used in RosoVRgarden (https://shorturl.at/N9uq1). Click Install or Update depending on your situation.
 
 <p align="left"><img src="images/basic06.jpg"/></p>
 
