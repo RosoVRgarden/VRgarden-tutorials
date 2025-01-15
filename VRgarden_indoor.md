@@ -2,7 +2,7 @@
 
 1. Create a new project using the 3D URP template.<span class="Apple-converted-space"> </span></p>
 
-2. Go to the Asset Store and get the [Pack Gesta](https://assetstore.unity.com/packages/3d/props/furniture/pack-gesta-furniture-1-28237?aid=1011ld79j&amp;utm_campaign=unity_affiliate&amp;utm_medium=affiliate&amp;utm_source=partnerize-linkmaker">https://assetstore.unity.com/packages/3d/props/furniture/pack-gesta-furniture-1-28237?aid=1011ld79j&amp;utm_campaign=unity_affiliate&amp;utm_medium=affiliate&amp;utm_source=partnerize-linkmaker)
+2. Go to the Asset Store and get the [Pack Gesta](https://assetstore.unity.com/packages/3d/props/furniture/pack-gesta-furniture-1-28237?aid=1011ld79j&amp;utm_campaign=unity_affiliate&amp;utm_medium=affiliate&amp;utm_source=partnerize-linkmaker">https://assetstore.unity.com/packages/3d/props/furniture/pack-gesta-furniture-1-28237?aid=1011ld79j&amp;utm_campaign=unity_affiliate&amp;utm_medium=affiliate&amp;utm_source=partnerize-linkmaker) (free)
 
 3. Open the scene called ‘scene’. All will be pink, it’s because the project was done in the basic render pipeline, but it can be changed. In Unity 2020, you need to go to Edit &gt; Render Pipeline &gt; Universal Render Pipeline &gt; <b>Upgrade Object Materials</b>.</p>
 
