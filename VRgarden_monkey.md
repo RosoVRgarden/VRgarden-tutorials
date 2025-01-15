@@ -18,8 +18,8 @@
 
 6. In order to re-enable the light, select the <b>static</b> option (Contribute GI) on all the layers and generate lighting (since it’s a small scene, you can toggle the Auto Generate option).<br>
 
-<p align="left"><img src="images/monkey04.jpg"/>
-<img src="images/monkey05.png"/></p>
+<p align="left"><img src="images/monkey04.jpg"/></p>
+<p align="left"><img src="images/monkey05.jpg"/></p>
 
 7.Create another <b>plane</b> (scale 0.2) and place it on the left wall behind the monkey, then create another <b>Material</b> (assets&gt;create&gt;material) that you call Blue. Turn on the Emission and choose a colour close to Blue.
 
@@ -28,8 +28,6 @@
 - Remove the compression <br>
 - Increase the padding (12) and the resolution (100) if you have any bleeding
 
-<p align="left"><img src="images/monkey07.jpg"/></p>
-
 9. Add some <b>Ambient Occlusion</b> (shadow between two areas
 - Max distance 0.7
 - Indirect Contribution 0.1
@@ -37,5 +35,5 @@
 10. Finally, add a <b>Global Volume</b> (GameObject &gt; Volume &gt; Global Volume).
 Click <b>New</b>, then <b>Add Override</b>, and choose Bloom.</p>
 
-<p align="left"><img src="images/monkey08.jpg"/></p>
+<p align="left"><img src="images/monkey07.jpg"/></p>
 
