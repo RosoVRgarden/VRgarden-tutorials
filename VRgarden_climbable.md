@@ -1,4 +1,4 @@
-# RosoVRgarden - climbable
+# VRgarden tutorials - climbable
 
 ## Introduction
 
