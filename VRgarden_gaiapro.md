@@ -36,5 +36,7 @@ Gaia Pro is an alternative to Unity Terrain that is optimised for terrain with w
 
 Vocabulary:
 Stamper: a tools that helps you shape your terrain with mountains and valleys
+
 Spawners: places resources such as textures, trees, terrain details (such as grass)
+
 Biomes: the animal and plant life, soil properties and other natural elements that you would expect in an outdoors area according to its climate
