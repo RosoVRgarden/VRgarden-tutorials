@@ -9,24 +9,25 @@
 
 2. The ladder is organised of 5 parts, the left side, the right side, the handles and the top handle. It’s important that every parts can be accessed individually and are organised in groups of parents / children.
 
-<p align="left"><img src="images/climbable2.jpg"/></p>
+| <p align="left"><img src="images/climbable2.jpg"/></p>    | <p align="left"><img src="images/climbable3.jpg"/></p> |
+
 
 3. The Handles (Climbable) is the parent that contains all the handles. On this object, you will add the Climb Interactable componenent. Only the Y movement is allowed and the collider is set yo volume. Finally, drag the <b>XR Interaction Manager</b> from the hierarchy to the Interaction Manager space
 
-<p align="left"><img src="images/climbable3.jpg"/></p>
+<p align="left"><img src="images/climbable4.jpg"/></p>
 
 4. For every handles, make sure that you add a capsule collider (and remove the mesh collider if there is one already).
 
-<p align="left"><img src="images/climbable4.jpg"/></p>
+<p align="left"><img src="images/climbable5.jpg"/></p>
 
 5. In the XR Origin of your project, create an empty game object and add the <b>Climb Provider </b>component that allows every movement direction (x,y,z).
 
-<p align="left"><img src="images/climbable5.jpg"/></p>
+<p align="left"><img src="images/climbable6.jpg"/></p>
 
 6. For a ladder, it’s important to extend it as a separate object (the top handle) so the user can move away from it. It doesn’t look very good but it is important for the correct use of VR. Also, you will need to activate the climb settings override on this particular area to allow Y movement (going up/down) but also the Z movement so the user can move back and forward and move onto a platform, for example.
 
-<p align="left"><img src="images/climbable6.jpg"/></p>
+<p align="left"><img src="images/climbable7.jpg"/></p>
 
 7. Designing the VR ladder. Although the ladder seems to only fulfil a technical requirement, there are existing design that might be interesting to copy. This is one is from the TV series Hannibal (2013-2015).
 
-<p align="left"><img src="images/climbable7.jpg"/></p>
+<p align="left"><img src="images/climbable8.jpg"/></p>
