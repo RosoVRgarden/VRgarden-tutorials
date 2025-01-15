@@ -9,10 +9,9 @@
 
 2. The ladder is organised of 5 parts, the left side, the right side, the handles and the top handle. It’s important that every parts can be accessed individually and are organised in groups of parents / children.
 
-|<p align="left"><img src="images/climbable2.jpg"/></p>|<p align="left"><img src="images/climbable3.jpg"/></p>|
-
-| <img src="images/climbable2.jpg"/> | <img src="images/climbable3.jpg"/>  | #2  |
-
+<p align="left">
+<img src="images/climbable2.jpg"/> <img src="images/climbable3.jpg"/>
+</p>
 
 
 3. The Handles (Climbable) is the parent that contains all the handles. On this object, you will add the Climb Interactable componenent. Only the Y movement is allowed and the collider is set yo volume. Finally, drag the <b>XR Interaction Manager</b> from the hierarchy to the Interaction Manager space
