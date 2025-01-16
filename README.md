@@ -6,11 +6,12 @@ VRgarden in School of Architecture proposes a series of tutorials to work with U
 ## Unity Setup
 ### [Basic Unity](VRgarden_basics.md)
 
-## Class
-
 ## Virtual Reality Setup
-- Oculus
-- Installation unity
+### [Install Oculus](VRgarden_oculus.md)
+
+## Class
+### [Unity 2022](VRgarden_unity2022.md)
+### [Unity 6](VRgarden_unity6.md)
 
 ## VR Tutorials
 ### [Climbable](VRgarden_climbable.md)
