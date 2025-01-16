@@ -1,17 +1,15 @@
 # VRgarden Class (Unity 2022)
 
-VRgarden in School of Architecture proposes a series of tutorials to work with Unity in Virtual Reality. 
-
 ### [Install Unity 2022](VRgarden_install2022.md)
 ### [Intro / briefing / demo](VRgarden_install2022.md)
 ### [Collider / physics (hinge/joint/spring)](VRgarden_basics.md)
 ### [Intro to Github](VRgarden_basics.md)
-### [RosoXR template / OpenXR Setup (recipe 1)](VRgarden_recipe1.md)
-### [Direct Interaction (recipe 2)](VRgarden_recipe1.md)
+### [VRGarden template / OpenXR Setup (recipe 1)](VRgarden_recipe1.md)
+### [Direct Interaction (recipe 2)](VRgarden_recipe2.md)
 ### [Grab Interactable (recipe 3) + sound interaction](VRgarden_recipe3.md)
 ### [Scripting basics](VRgarden_basics.md)
 ### [Door and Cabinet (recipe 4)](VRgarden_recipe4.md)
-### [Intro to Probuilder](VRgarden_recipe5.md)
+### [Intro to Probuilder](VRgarden_basics.md)
 ### [Chameleon wall (recipe 5) / VR layers / raycast](VRgarden_recipe5.md)
 ### [Presence sphere (recipe 6) / animation](VRgarden_recipe6.md)
 ### [Programming Interactable](VRgarden_basics.md)
@@ -19,3 +17,7 @@ VRgarden in School of Architecture proposes a series of tutorials to work with U
 ### [Light (lightmap / outdoor / indoor)](VRgarden_basics.md)
 ### [Controller interactivity (hand / colour / toggle)](VRgarden_controllers.md)
 ### [Character animation (setup / move / patrol / ai demo)](VRgarden_basics.md)
+#### [Mixamo](VRgarden_mixamo.md)
+#### [Mixamo](VRgarden_mixamo2.md)
+#### [Character Controller 4](VRgarden_charactercontroller4.md)
+#### [AI Navemesh](VRgarden_navmesh.md)
