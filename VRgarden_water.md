@@ -1,8 +1,10 @@
-#VRgarden - Water Effects
+# VRgarden - Water Effects
 
 There are many ways to create water in Unity. Is it a puddle, a small piece of water, a river, a lake or an ocean? It is recommended to use different pieces of softwares for different sizes of water. As an effect, it’s a particularly complicated one to render and since VR is a very constrained technology, it’s can be tricky to make water work. One important setting to check is the Render Mode (Edit &gt; Project Settings &gt; XR Plugin Management). The Single Pass Instanced is recommended as it is the fastest but if you can’t see the water in your headset, try Multi pass. Although it creates big files, consider Gaia Pro to create a complete environment with terrain and water. It works very well in VR and has underwater effects (see the Gaia Pro recipe).
 
-2. <b>River and Lake</b>. A good and easy tool is R.A.M - River Auto Material 2023. Once you have imported the package, go to the NatureManufacture Assets&gt;River Auto Material&gt;HD and URP Support Packs folder<b> </b>and install the <b>URP package</b> to make it compatible with URP.
+## River and Lake
+
+A good and easy tool is R.A.M - River Auto Material 2023. Once you have imported the package, go to the NatureManufacture Assets&gt;River Auto Material&gt;HD and URP Support Packs folder<b> </b>and install the <b>URP package</b> to make it compatible with URP.
 
 <p align="left"><img src="images/water01.jpg"/></p>
 
@@ -18,7 +20,8 @@ There are many ways to create water in Unity. Is it a puddle, a small piece of w
 
 <p align="left"><img src="images/water01.jpg"/></p>
 
-3. Ocean. The best looking water is <b>KWS Water System</b> where you can create underwater effect and underwater buildings. If there is an issue, you can use the Crest Water System. It is recommended to look at the examples in the Crest-Examples folder such as the River and Lake one as it is more difficult to setup. You will also need to have a terrain to work properly.
+## Ocean
+The best looking water is <b>KWS Water System</b> where you can create underwater effect and underwater buildings. If there is an issue, you can use the Crest Water System. It is recommended to look at the examples in the Crest-Examples folder such as the River and Lake one as it is more difficult to setup. You will also need to have a terrain to work properly.
 
 3.1 Setting up <b>KWS Water</b>. In order to get transparency on the Ocean, you should activate the <b>Depth Texture</b> and the <b>Opaque Texture</b> in the URP Setting. Go to the Project Settings, choose Graphics and click on URP-HighFidelity. 
 
@@ -36,7 +39,9 @@ There are many ways to create water in Unity. Is it a puddle, a small piece of w
 
 3.4 Finally, you can add some underwater effect by adding the Crest Underwater Rendered in the camera (need testing in VR).
 
-4. If you are looking to create a good underwater effect or add to the realism of your water, look for the caustic effect (see below). You can use <b>Water Caustics Effect for URP v2</b> if you don’t want to use bigger packages such as KWS or Gaia Pro. It is compatible with URP and give you a variety of renderings.
+## Underwater Effect
+
+If you are looking to create a good underwater effect or add to the realism of your water, look for the caustic effect (see below). You can use <b>Water Caustics Effect for URP v2</b> if you don’t want to use bigger packages such as KWS or Gaia Pro. It is compatible with URP and give you a variety of renderings.
 
 <p align="left"><img src="images/water01.jpg"/></p>
 
@@ -48,16 +53,18 @@ There are many ways to create water in Unity. Is it a puddle, a small piece of w
 
 <p align="left"><img src="images/water01.jpg"/></p>
 
-5. URP Water is an easy to use water. First you need to set the Depth Texture and the Opaque Texture as in the previous examples.
+## Small piece of water
+
+URP Water is an easy to use water. First you need to set the Depth Texture and the Opaque Texture as in the previous examples.
 
 <p align="left"><img src="images/water01.jpg"/></p>
 
 5.1 You need to create a material (+ sign, near the Assets) and choose URP Water&gt;Standard in the list of shaders. Play with the options and look at the demo. In the mode, the flow is an interesting way to create movement in the water. The reflexion can come from many places, use a reflexion probe as it is the easiest. The foam shows around the object that intersects with the water and the caustic is similar to the caustic effect seen earlier (only simpler).
 
-6. Add life to the sea.
+## Add life to your water
 You can add life to your water by adding fish, <b>Fish School Bundle</b> and some decoration.
 
-7. More information.</p>
+## More information
 <p class="p4"><span class="s2">RAM 3 - <a href="https://www.youtube.com/watch?v=VI7CiHcemzU"><span class="s3">https://www.youtube.com/watch?v=VI7CiHcemzU</span></a></span></p>
 <p class="p4"><span class="s2">Crest User Manual: <a href="https://crest.readthedocs.io/en/stable/user/initial-setup.html?rp=urp"><span class="s3">https://crest.readthedocs.io/en/stable/user/initial-setup.html?rp=urp</span></a></span></p>
 <p class="p4"><span class="s2">KWS Water System: <a href="https://www.youtube.com/watch?v=8_NSuJBELus"><span class="s3">https://www.youtube.com/watch?v=8_NSuJBELus</span></a></span></p>
