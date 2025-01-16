@@ -2,10 +2,9 @@
 
 Terrains are fun but not very practical. Gaia Pro is a fantastic alternative but slow to implement. Microverse is a new approach that allows you to easily setup a nice looking terrain with roads, textures and trees without dealing a vast amount of data. It can do what terrain can do but it’s goal oriented (getting a result fast) and non-destructible (you can easily move stuff at the last minute and it will adapt).</p>
 
-1. The essence of the package is in the <b>Microverse - Core</b> Collection. Here is a list of options available options. Download and import what you need for your project.</p>
+1. The essence of the package is in the <b>Microverse - Core</b> Collection. Here is a list of options available Download and import what you need for your project.</p>
 - ready made landscapes (stamps): tropical forest pack, ultimate stampIT collection, mountain trees - dynamic nature, landscape ground pack 2</p>
 - roads and rails: microverse - roads</p>
-- water: crest ocean system.</p>
 
 <p align="left"><img src="images/mivroverse01.jpg"/></p>
 
