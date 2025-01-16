@@ -2,7 +2,7 @@
 
 The sonic cylinder is an object that has physical properties (rigibody) and that plays sound if you select it with your VR hands. Find the <b>sonic cylinder</b> in the hierarchy:
 
-<p align="left"><img src="images/recipe301.png"/></p>
+<p align="left"><img src="images/recipe301.jpg"/></p>
 
 1. Create a 3D game object (a cylinder) then add &lt;XR Grab Interactable&gt; component to get started. It should automatically install a &lt;Rigidbody&gt;. You can choose to have gravity (to fall) or be kinematic (to stay in the air). Make sure that there is a collider attached to your object (there should be one installed automatically). Test it in VR and your object should have an object with physical properties.
 
@@ -12,7 +12,7 @@ Three things: <b>XR Grab Interactable</b> + <b>Rigidbody (physics gravity)</b> +
 
 2. The sound. Add a &lt;Audio Source&gt; component then import an <i>AudioClip</i> in your assets (I recommend sounddogs.com for reasonably priced professional sounds). Drag the sound from the assets to the <i>AudioClip</i> (example: parasite). Make sure that <i>Play on Awake</i> is off.<span class="Apple-converted-space"> </span></p>
 
-<p align="left"><img src="images/recipe303.png"/></p>
+<p align="left"><img src="images/recipe303.jpg"/></p>
 
 3. Go back to the &lt;XR Grab Interactable&gt; component and look for the <i>Interactable Events</i>. You can choose when will the trigger start an event. I have chosen on select entered which when you press <i>trigger </i>on the controller. Click + then drag the <b>sonic cylinder </b>from the hierarchy to where the sonic cylinder is.
 
