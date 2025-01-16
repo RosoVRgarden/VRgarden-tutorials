@@ -36,7 +36,7 @@ Once you install them, locate them (Assets &gt; XR Interaction Toolkit &gt; 2.X.
 
 <p align="left"><img src="images/recipe108.jpg"/></p>
 
-9. In order to add locomotion to your VR, select the XR Origin in the hierarchy and add the following: <b>Locomotion System</b>.<b>Continuous Move Provider (Action-based), <b>Character controller driver</b> and <b>Character Controller</b> by clicking on the Add Component button.
+9. In order to add locomotion to your VR, select the XR Origin in the hierarchy and add the following: <b>Locomotion System</b>.<b>Continuous Move Provider (Action-based), Character controller driver</b> and <b>Character Controller</b> by clicking on the Add Component button.
 	
 <p align="left"><img src="images/recipe109.jpg"/></p>
 
