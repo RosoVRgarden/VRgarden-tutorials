@@ -1,4 +1,4 @@
-#RosoVRgarden - Real World Terrain + Gaia Stampers + Digger
+# VRgarden - Real World Terrain + Gaia Stampers + Digger
 
 1. Install the Real World Terrain Helper + Gaia Pro from the Package Manager
 
