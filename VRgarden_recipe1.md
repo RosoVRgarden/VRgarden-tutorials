@@ -18,7 +18,7 @@ You will get some warnings, about the input system, click YES and Unity will res
 
 Once you install them, locate them (Assets &gt; XR Interaction Toolkit &gt; 2.X.X &gt; Starter Assets). The image below uses version 2.5.1 but you might have a later version.
 
-<<p align="left"><img src="images/recipe104.jpg"/></p>
+<p align="left"><img src="images/recipe104.jpg"/></p>
 
 5. Setup OpenXR, go to the Edit menu &gt; Project Settings. OpenXR is Unity system that handles VR and AR. In the XR Plug-in Management, select OpenXR, use Single Pass (more efficient) and add controller profiles. Click + and select <b>HTC Vive Controller</b> and + again to add the <b>Oculus Touch Controller</b> for dual compatibility across the systems.
 
@@ -36,11 +36,11 @@ Once you install them, locate them (Assets &gt; XR Interaction Toolkit &gt; 2.X.
 
 <p align="left"><img src="images/recipe108.jpg"/></p>
 
-9. In order to add locomotion to your VR, select the XR Origin in the hierarchy and add the following: </span><b>Locomotion System</b><span class="s3">. </span><b>Continuous Move Provider (Action-based)</b><span class="s3"><b>,</b> </span><b>Character controller driver </b>and<b> Character Controller </b>by clicking on the Add Component button.<b>
+9. In order to add locomotion to your VR, select the XR Origin in the hierarchy and add the following: </span><b>Locomotion System</b><span class="s3">. </span><b>Continuous Move Provider (Action-based)</b><span class="s3"><b>,</b> </span><b>Character controller driver</b> and <b>Character Controller</b> by clicking on the Add Component button.<b>
 	
 <p align="left"><img src="images/recipe109.jpg"/></p>
 
-10. In the </span><b>Continuous Move Provider (Action-based). </b>Under Right Hand Move Action, click use reference and select XRI RightHand Locomotion/Move (Input Action Reference). Note: Alternatively, you can click +, add binding, click &lt;No Binding&gt;, type ‘Primary’ and select Primary2DAxis [Any]. Both solutions lead to the same result. Select Gravity Application mode ‘Immediately’ so the gravity is applied from the beginning.
+10. In the <b>Continuous Move Provider (Action-based)</b>. Under Right Hand Move Action, click use reference and select XRI RightHand Locomotion/Move (Input Action Reference). Note: Alternatively, you can click +, add binding, click &lt;No Binding&gt;, type ‘Primary’ and select Primary2DAxis [Any]. Both solutions lead to the same result. Select Gravity Application mode ‘Immediately’ so the gravity is applied from the beginning.
 
 <p align="left"><img src="images/recipe110.png"/></p>
 
