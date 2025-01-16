@@ -24,7 +24,7 @@
 
 8. In Terrain, you can choose <b>Terrain</b> as a result if you want to use directly. You can generate buildings, rivers, trees and grass but they are not great. Click <b>Textures</b> to get images of the area. Add the options you require at the bottom. Choose your <b>Elevation Provider</b>.
 
-SRTM (free) - resolution of 90 meters</p>
+SRTM (free) - resolution of 90 meters
 Bing (free) - resolution of 90 meters for the US, 900 for the rest of the world
 SRTM30 (needs registration) - resolution of 30 meters
 MapBox (needs registration) - resolution of up to 5 meters
@@ -33,7 +33,7 @@ Once you are ready, click Start (bottom) and wait for the terrain to be generate
 
 <p align="left"><img src="images/realworld05.jpg"/></p>
 
-9. Alternatively, if you want better texturing, you can export your terrain into a <b>Gaia Stamp</b>.</p>
+9. Alternatively, if you want better texturing, you can export your terrain into a <b>Gaia Stamp</b>.
 Once you are ready, click Start (bottom) and wait for the terrain to be generated.
 
 <p align="left"><img src="images/realworld06.jpg"/></p>
@@ -61,9 +61,7 @@ In the Gaia Tools, select the <b>Stamper.</b> If the area is too flat, you can c
 
 14. When you are ready, click on <b>Spawn Biome</b> (bottom)
 
-15. Then click <b>Create Runtime</b> in order to have moving water, clouds, wind, …. You can change the runtime for a different time of the day in the manager
-
-See Stamper Introduction for more info (<a href="https://canopy.procedural-worlds.com/library/tools/gaia-pro-2021/written-articles/creating_your_world/2-stamper-introduction-r46/"><span class="s2">https://canopy.procedural-worlds.com/library/tools/gaia-pro-2021/written-articles/creating_your_world/2-stamper-introduction-r46/</span></a>)</span>
+15. Then click <b>Create Runtime</b> in order to have moving water, clouds, wind, …. You can change the runtime for a different time of the day in the manager. See Stamper Introduction for more info (<a href="https://canopy.procedural-worlds.com/library/tools/gaia-pro-2021/written-articles/creating_your_world/2-stamper-introduction-r46/"><span class="s2">https://canopy.procedural-worlds.com/library/tools/gaia-pro-2021/written-articles/creating_your_world/2-stamper-introduction-r46/</span></a>)</span>
 
 16. The scene can be particularly big to move around, you may want to add some navigation cubes or install an extension such as Scene Navigator from the package manager to record key positions.
 
