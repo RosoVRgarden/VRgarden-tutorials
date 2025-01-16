@@ -21,23 +21,21 @@ VRgarden in School of Architecture proposes a series of tutorials to work with U
 
 ## Unity Tutorials
 ### [Terrain](VRgarden_terrain.md)
-### [Terrain](VRgarden_realworld.md)
-### [Terrain](VRgarden_microverse.md)
-### [Terrain](VRgarden_water.md)
-<br>
+### [Realword Terrain](VRgarden_realworld.md)
+### [Microverse](VRgarden_microverse.md)
+### [Water](VRgarden_water.md)
+
 ### [Light Basics](VRgarden_light.md)
 ### [Light Indoor](VRgarden_indoor.md)
 ### [Emissive Light](VRgarden_monkey.md)
-<br>
+
 ### [Pivot](VRgarden_pivot.md)
 ### [Sound](VRgarden_sound.md)
 ### [Decal](VRgarden_decal.md)
-<br>
 
 ## Extensions
 ### [Gaia Pro](VRgarden_gaiapro.md)
 ### [Microverse](VRgarden_microverse.md)
-<br>
 
 ## Ressources
 ### [Archviz pro](VRgarden_archvizPro.md)
