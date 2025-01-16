@@ -2,6 +2,8 @@
 The Meta Quest is the most accessible virtual reality headset. In this setup guide, I will walk you through the steps to get your Oculus Quest up and running with Unity so that you can start making.
 Setup.
 
+## Prepare
+
 1.	Create a Meta Account at the Meta accounts center.  
 You can learn more at Getting Started with Meta Accounts (oculus.com).
 2.	Set up Meta Quest / Oculus developer account with Meta Account
@@ -10,7 +12,7 @@ You can learn more at Getting Started with Meta Accounts (oculus.com).
 5.	Turn on Developer Mode toggle in Meta Quest Companion App 
 6.	Turn on Developer Mode in Quests
 
-Connecting Quest to PC<br>
+## Connecting Quest to PC<br>
 
 7.	Start the Oculus app and put Quest on.
 https://www.oculus.com/download_app/?id=1582076955407037 <br>
@@ -20,11 +22,11 @@ https://www.oculus.com/download_app/?id=1582076955407037 <br>
 	OpenXR Runtime should be set to Oculus
 10.	In the Quest, enable Oculus Link (preferred) or connect with AirLink (untested).
  
-Setting up Unity VR Application to connect to Quest.
+## Setting up Unity VR Application to connect to Quest.
 
 11.	Download https://github.com/RosoVRgarden/RosoVRgarden_OpenXR22 <br>
 12.	Open Unity Hub and ADD the RosoVRGarden to your Project list
-13.	Open RosoVRgarden OpenXR22 with Unity 2022.3.9 or higher. You will need to confirm opening in a newer version if it is a higher version, that’s ok. 
+13.	Open RosoVRgarden OpenXR22 with Unity 2022.3.X. You will need to confirm opening in a newer version if it is a higher version, that’s ok. 
 14.	Put Quest on
 15.	Quest should prompt you to allow the connection. Click Always Allow to enable.
 16.	In the Quest, click Quick Setting (battery symbol on the left) then click on Quest Link, then Launch.
