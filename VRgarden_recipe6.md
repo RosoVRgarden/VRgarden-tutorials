@@ -31,26 +31,26 @@ The presence sphere is an example shows how to make an animation that responds t
 
 7. Now make transitions between the New State and the ‘jumping’ animation (right click on New State then on ‘jumping’, select make transition)</p>
 
-<p align="left"><img src="images/recipe610.png"/></p>
+<p align="left"><img src="images/recipe609.png"/></p>
 
-<p align="left"><img src="images/recipe611.png"/></p>
+<p align="left"><img src="images/recipe610.png"/></p>
 
 . Now we need to give a name to this so we can access it from our program. Click Parameters, then on the + sign, then select Bool (boolean are true or false). In the Name, call it ‘Jump’.</p>
 
-<p align="left"><img src="images/recipe612.png"/></p>
+<p align="left"><img src="images/recipe611.png"/></p>
 
 
 <p class="p3">9. Select the transition going from New State to jumping, go to the inspector and click on the + sign under Conditions. Set jump to true (in other words <i>if jump = true, play the animation</i>)
 
-<p align="left"><img src="images/recipe613.png"/></p>
+<p align="left"><img src="images/recipe612.png"/></p>
 
 <p class="p3">10. Select the transition going from jumping to New State, go to the inspector and click on the + sign under Conditions. Set jump to false (in other words <i>if jump = false, stop the animation</i>
 	
-<p align="left"><img src="images/recipe614.png"/></p>
+<p align="left"><img src="images/recipe613.png"/></p>
 	
 11. Now select the collider in the hierarchy (a simple plane with a box collider and Rigidbody with no gravity so it doesn’t move) and add a script component called PlayAnimation.
 
-<p align="left"><img src="images/recipe616.png"/></p>
+<p align="left"><img src="images/recipe614.png"/></p>
 
 <p class="p3">12. Copy the following code</p>
 
@@ -83,5 +83,5 @@ The presence sphere is an example shows how to make an animation that responds t
 
 13. Final step is change the tag on the XR Rig’s tag to Player (so when it hits the collider, it will respond) and add a Rigidbody (remove gravity) and a capsule collider with a trigger on so when you collide, you will send a message to your program.
 
-<p align="left"><img src="images/recipe617.png"/></p>
+<p align="left"><img src="images/recipe616.png"/></p>
 
