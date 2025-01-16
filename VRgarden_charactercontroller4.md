@@ -7,7 +7,6 @@
 
 <b>Part II - Installing Unity Auto Setup</b></p>
 <p class="p4"><span class="s1">(<a href="https://www.youtube.com/watch?v=GcjTYAHNe2A"><span class="s2">https://www.youtube.com/watch?v=GcjTYAHNe2A</span></a>)</span></p>
-<p class="p5"><br></p>
 
 1. Get the CC Auto Setup. There should be a copy of the file in the common folder but if it’s not there or requires update you can install it yourself.
 
@@ -28,7 +27,6 @@ The installation will start and you will get a new menu called Reallusion.</p>
 
 <b>Part III Character Export<span class="Apple-converted-space"> </span></b></p>
 <p class="p4"><span class="s1">(source: <a href="https://www.youtube.com/watch?v=EwdMSC8UjSY"><span class="s2">https://www.youtube.com/watch?v=EwdMSC8UjSY</span></a></span></p>
-<p class="p5"><br></p>
 
 1. Once your character is ready and the Unity project is setup, you can export the character from CC4. Go to file &gt; export &gt; clothed character (I’m using Kevin as an example).<span class="Apple-converted-space"> </span></p>
 
