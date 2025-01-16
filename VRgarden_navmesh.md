@@ -18,27 +18,30 @@
 
 <p align="left"><img src="images/navmesh04B.jpg"/></p>
 
+<p align="left"><img src="images/navmesh05.jpg"/></p>
+
 5. To make an animation using a Navmesh is quite tricky. The Unity StandardClips and the Standard animations provide an easy solution (see above). As we enter the game, the Humanoid Idle is activated and when it receives a message from the script (move = true), it enters into an animation blend tree. The tree allows us to animate to blend the walk, run and turn animations depending on the velocity it receives from the Navmesh through the parameters velx and vely.
 
 6. As an example, put the Female Casual in the hierarchy and add the Unity StandardClips Controller to the Controller. Then add a script called PlayerMovement.cs. In the Navmesh Agent, change the Stopping Distance to 0.33 and play with the Radius in case the character becomes stuck too often. The script will synchronise the animation and the navmesh by giving the characters some random places to go.
 
 7. There is a more advanced character called the ‘Dude’ that runs smoother (it has more animations). It uses the LocomotionController as a Controller (see the correct configuration below):
 
-<p align="left"><img src="images/navmesh05.jpg"/></p>
+<p align="left"><img src="images/navmesh06.jpg"/></p>
 
 8. You can also import a character such as Olivia from Maximo. Follow the import procedure from the first tutorial, then add the Unity StandardClips to the Controller and the Player Movement script.
 
 9. It’s also possible to define Non-Walkable areas. Create a plane then add a NavmeshSurface. Change the default area to Not Walkable then click on Bake.
 
-<p align="left"><img src="images/navmesh06.jpg"/></p>
+<p align="left"><img src="images/navmesh07.jpg"/></p>
+<p align="left"><img src="images/navmesh08.jpg"/></p>
 
 10. There are a few solutions that you can pay for ranging from the NPC Populator ($15) to a complete Urban Traffic simulator with car, buses, bicycle and people ($349). Also check Citizens Pro 2024 ($169) and Population System PRO ($97).</p>
 
-<p align="left"><img src="images/navmesh07.jpg"/></p>
+<p align="left"><img src="images/navmesh09.jpg"/></p>
 
 NPC Populator
 
-<p align="left"><img src="images/navmesh08.jpg"/></p>
+<p align="left"><img src="images/navmesh10.jpg"/></p>
 
 Urban Traffic simulator
 
