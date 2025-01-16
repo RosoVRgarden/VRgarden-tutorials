@@ -7,12 +7,6 @@
 ## Unity Setup
 ### [Basic Unity](VRgarden_basics.md)
 
-## Virtual Reality Setup
-### [Install Oculus](VRgarden_oculus.md)
-
-## VR Tutorials
-### [Climbable](VRgarden_climbable.md)
-
 ## Unity Tutorials
 ### [Terrain](VRgarden_terrain.md)
 ### [Water](VRgarden_water.md)
@@ -24,6 +18,12 @@
 ### [Pivot](VRgarden_pivot.md)
 ### [Sound](VRgarden_sound.md)
 ### [Decal](VRgarden_decal.md)
+
+## Virtual Reality Setup
+### [Install Oculus](VRgarden_oculus.md)
+
+## VR Tutorials
+### [Climbable](VRgarden_climbable.md)
 
 ## Animation
 ### [Mixamo](VRgarden_mixamo.md)

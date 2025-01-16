@@ -1,8 +1,8 @@
 # VRgarden Class (Unity 2022)
 
 ### [Install Unity 2022](VRgarden_install2022.md)
-### [Intro / briefing / demo](VRgarden_install2022.md)
-### [Collider / physics (hinge/joint/spring)](VRgarden_basics.md)
+### [Intro / briefing / demo]
+### [Collider / physics (hinge/joint/spring)]
 ### [Intro to Github](VRgarden_basics.md)
 ### [VRGarden template / OpenXR Setup (recipe 1)](VRgarden_recipe1.md)
 ### [Direct Interaction (recipe 2)](VRgarden_recipe2.md)
