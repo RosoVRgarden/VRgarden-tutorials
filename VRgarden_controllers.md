@@ -3,23 +3,250 @@ There are many ways of doing interaction with objects and the easiest is through
 
 ## Features
 
-<p class="p3"><br></p>
-<p class="p4"><b>1. Input Feature<span class="Apple-tab-span">	</span>Feature<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>Vive<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>Oculus<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>Unity (default)</b></p>
-<p class="p3"><br></p>
-<p class="p4">trigger<span class="Apple-tab-span">	</span>Button / Axis<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>Trigger<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>Trigger<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>I / Activate</p>
-<p class="p4">grip<span class="Apple-tab-span">	</span>Button / Axis<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>Grip<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>Grip<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>I/ Select</p>
-<p class="p5"><br></p>
-<p class="p4">primaryButton<span class="Apple-tab-span">	</span>Button<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>System button<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>Primary (X/A)</p>
-<p class="p4">secondary Button<span class="Apple-tab-span">	</span>Button<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>n/a<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>Alternative (Y/B)</p>
-<p class="p5"><br></p>
-<p class="p4">gripButton <span class="Apple-tab-span">	</span>Button<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>Grip Press<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>Grip Press</p>
-<p class="p4">triggerButton<span class="Apple-tab-span">	</span>Button<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>Trigger Press<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>Trigger Press</p>
-<p class="p5"><br></p>
-<p class="p4">primary2DAxisClick<span class="Apple-tab-span">	</span>Button<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>Trackpad-Press<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>Joystick-Press<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>I/ Scale Toggle</p>
-<p class="p4">primary2DAxisTouch<span class="Apple-tab-span">	</span>Axis<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>Trackpad-Touch<span class="Apple-tab-span">	</span>Joystick-Touch<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>L/ Move</p>
-<p class="p3"><br></p>
+<table cellspacing="0" cellpadding="0" class="t1">
+  <tbody>
+    <tr>
+      <td valign="middle" class="td1">
+        <p class="p3"><b>Input Feature</b></p>
+      </td>
+      <td valign="middle" class="td2">
+        <p class="p3"><b>Feature</b></p>
+      </td>
+      <td valign="middle" class="td3">
+        <p class="p3"><b>Vive</b></p>
+      </td>
+      <td valign="middle" class="td4">
+        <p class="p3"><b>Oculus</b></p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3"><b>Unity (default)</b></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td6">
+        <p class="p4"><br></p>
+      </td>
+      <td valign="middle" class="td2">
+        <p class="p4"><br></p>
+      </td>
+      <td valign="middle" class="td3">
+        <p class="p4"><br></p>
+      </td>
+      <td valign="middle" class="td4">
+        <p class="p4"><br></p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p4"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td1">
+        <p class="p5">trigger</p>
+      </td>
+      <td valign="middle" class="td2">
+        <p class="p5">Button / Axis</p>
+      </td>
+      <td valign="middle" class="td3">
+        <p class="p5">Trigger</p>
+      </td>
+      <td valign="middle" class="td4">
+        <p class="p5">Trigger</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p5">I / Activate</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td1">
+        <p class="p5">grip</p>
+      </td>
+      <td valign="middle" class="td2">
+        <p class="p5">Button / Axis</p>
+      </td>
+      <td valign="middle" class="td3">
+        <p class="p5">Grip</p>
+      </td>
+      <td valign="middle" class="td4">
+        <p class="p5">Grip</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p5">I/ Select</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td1">
+        <p class="p4"><br></p>
+      </td>
+      <td valign="middle" class="td2">
+        <p class="p4"><br></p>
+      </td>
+      <td valign="middle" class="td3">
+        <p class="p4"><br></p>
+      </td>
+      <td valign="middle" class="td4">
+        <p class="p4"><br></p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p4"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td1">
+        <p class="p5">primaryButton</p>
+      </td>
+      <td valign="middle" class="td2">
+        <p class="p5">Button</p>
+      </td>
+      <td valign="middle" class="td3">
+        <p class="p5">System button</p>
+      </td>
+      <td valign="middle" class="td4">
+        <p class="p5">Primary (X/A)</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p4"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td7">
+        <p class="p5">secondary Button</p>
+      </td>
+      <td valign="middle" class="td2">
+        <p class="p5">Button</p>
+      </td>
+      <td valign="middle" class="td3">
+        <p class="p6">n/a</p>
+      </td>
+      <td valign="middle" class="td4">
+        <p class="p5">Alternative (Y/B)</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p4"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td1">
+        <p class="p4"><br></p>
+      </td>
+      <td valign="middle" class="td2">
+        <p class="p4"><br></p>
+      </td>
+      <td valign="middle" class="td3">
+        <p class="p4"><br></p>
+      </td>
+      <td valign="middle" class="td4">
+        <p class="p4"><br></p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p4"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td7">
+        <p class="p5">gripButton<span class="Apple-converted-space"> </span></p>
+      </td>
+      <td valign="middle" class="td2">
+        <p class="p5">Button</p>
+      </td>
+      <td valign="middle" class="td3">
+        <p class="p5">Grip Press</p>
+      </td>
+      <td valign="middle" class="td4">
+        <p class="p5">Grip Press</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p4"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td7">
+        <p class="p5">triggerButton</p>
+      </td>
+      <td valign="middle" class="td2">
+        <p class="p5">Button</p>
+      </td>
+      <td valign="middle" class="td3">
+        <p class="p5">Trigger Press</p>
+      </td>
+      <td valign="middle" class="td4">
+        <p class="p5">Trigger Press</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p4"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td7">
+        <p class="p4"><br></p>
+      </td>
+      <td valign="middle" class="td2">
+        <p class="p4"><br></p>
+      </td>
+      <td valign="middle" class="td3">
+        <p class="p4"><br></p>
+      </td>
+      <td valign="middle" class="td4">
+        <p class="p4"><br></p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p4"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td1">
+        <p class="p5">primary2DAxisClick</p>
+      </td>
+      <td valign="middle" class="td2">
+        <p class="p5">Button</p>
+      </td>
+      <td valign="middle" class="td3">
+        <p class="p5">Trackpad-Press</p>
+      </td>
+      <td valign="middle" class="td4">
+        <p class="p5">Joystick-Press</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p5">I/ Scale Toggle</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td1">
+        <p class="p5">primary2DAxisTouch</p>
+      </td>
+      <td valign="middle" class="td2">
+        <p class="p6">Axis</p>
+      </td>
+      <td valign="middle" class="td3">
+        <p class="p5">Trackpad-Touch</p>
+      </td>
+      <td valign="middle" class="td4">
+        <p class="p5">Joystick-Touch</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p5">L/ Move</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td1">
+        <p class="p4"><br></p>
+      </td>
+      <td valign="middle" class="td2">
+        <p class="p4"><br></p>
+      </td>
+      <td valign="middle" class="td3">
+        <p class="p4"><br></p>
+      </td>
+      <td valign="middle" class="td4">
+        <p class="p4"><br></p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p4"><br></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <p class="p6"><i>Note: I stands for XRI Interaction and L is stands for XRI Locomotion</i></p>
-<p class="p3"><br></p>
 
 <p align="left"><img src="images/interaction01.jpg"/>
 <img src="images/interaction02.png"/></p>
@@ -28,78 +255,79 @@ There are many ways of doing interaction with objects and the easiest is through
 
 ### Button action (true / false)
 
-Button action (true / false)
-public InputActionReference toggleReference = null;
-
-private void Awake(){
-		toggleReference.action.started += Toggle;
-}
-
-private void Toggle(InputAction.CallbackContext context){
-	action
-}
-	
->> Analog action (value)		
-public InputActionReference analogData = null;
-
-void Update()
-float value = analogData.action.ReadValue<float>();
-
-### Example: ToggleObject (Button)
-
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine. InputSystem;
-	
-public class ToggleObjectExample: MonoBehaviour
-{
+	Button action (true / false)
 	public InputActionReference toggleReference = null;
 
 	private void Awake(){
 		toggleReference.action.started += Toggle;
 	}
 
-	private void OnDestroy (){
-		toggleReference.action.started -= Toggle;
+	private void Toggle(InputAction.CallbackContext context){
+		action
 	}
+	
+### Analog action (value)		
+	public InputActionReference analogData = null;
 
-	private void Toggle(InputAction.CallbackContext context) {
-			bool isActive = !gameObject.activeSelf;
-			gameObject.SetActive(isActive);
+	void Update()
+	float value = analogData.action.ReadValue<float>();
+		
+## Examples
 
+### ToggleObject (Button)
+
+	using System.Collections;
+	using System.Collections.Generic;
+	using UnityEngine;
+	using UnityEngine. InputSystem;
+	
+	public class ToggleObjectExample: MonoBehaviour
+	{
+		public InputActionReference toggleReference = null;
+
+		private void Awake(){
+			toggleReference.action.started += Toggle;
+		}
+
+		private void OnDestroy (){
+			toggleReference.action.started -= Toggle;
+		}
+
+		private void Toggle(InputAction.CallbackContext context) {
+				bool isActive = !gameObject.activeSelf;
+				gameObject.SetActive(isActive);			
+			}
+		}
+
+### ColorObject (Analog)
+
+	using System.Collections;
+	using System.Collections.Generic;
+	using UnityEngine;
+	using UnityEngine.InputSystem;
+
+	public class ColorObject : MonoBehaviour
+	{
+
+  	  public InputActionReference colorReference = null;
+  	  private MeshRenderer meshRenderer = null;
+
+  	  void Awake()
+  	  {
+  		  meshRenderer = GetComponent<MeshRenderer>();
+  		}
+
+  	  void Update()
+  	  {
+  		  float value = colorReference.action.ReadValue<float>();
+  			UpdateColor(value);
+  	  }
+
+  	  void UpdateColor(float value)
+ 	   {
+  		  meshRenderer.material.color = new Color(value, value, value);
+ 	   }
 	}
-}
-
-### Example: ColorObject (Analog)
-
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.InputSystem;
-
-public class ColorObject : MonoBehaviour
-{
-
-    public InputActionReference colorReference = null;
-    private MeshRenderer meshRenderer = null;
-
-    void Awake()
-    {
-        meshRenderer = GetComponent<MeshRenderer>();
-    }
-
-    void Update()
-    {
-        float value = colorReference.action.ReadValue<float>();
-        UpdateColor(value);
-    }
-
-    void UpdateColor(float value)
-    {
-        meshRenderer.material.color = new Color(value, value, value);
-    }
-}
 
 5. ColorObject and ToggleObject in the Inspector</b></p>
 
