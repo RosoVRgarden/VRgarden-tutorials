@@ -272,5 +272,5 @@ Making a mistake can trigger an audio and highlight the correct object very trai
 
 <p align="left"><img src="images/builder10.jpg"/></p>
 
-9. User manual: <a href="https://www.mindport.co/vr-builder-manual/online-documentation"><span class="s2">https://www.mindport.co/vr-builder-manual/online-documentation</span></a></span></p>
+9. User manual: <a href="https://www.mindport.co/vr-builder-manual/online-documentation"><span class="s2">https://mindport-gmbh.github.io/VR-Builder-Documentation/articles/pro/animations/animate-transform-behavior.html</span></a></span></p>
 
