@@ -2,8 +2,8 @@
 
 VRgarden in School of Architecture proposes a series of tutorials to work with Unity in Virtual Reality. 
 
-### [Install Unity 2022](VRgarden_install2022)
-### [Intro / briefing / demo](VRgarden_install2022)
+### [Install Unity 2022](VRgarden_install2022.md)
+### [Intro / briefing / demo](VRgarden_install2022.md)
 ### [OpenXR Setup (recipe 1)](VRgarden_basics.md)
 ### [RosoXR template / Intro to Github](VRgarden_basics.md)
 ### [Direct Interaction (recipe 2)](VRgarden_basics.md)
