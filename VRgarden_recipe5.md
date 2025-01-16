@@ -1,28 +1,24 @@
-# VR recipe 5 - Door and Cabinet (Physics)
-The cabinet is a simple object that shows the use of hinges (doors) and configurable joints (drawers, sliding doors). Find the example in the RosoVRgarden OpenXR project project (<a href="https://github.com/RosoVRgarden/RosoVRgarden_OpenXR22"><span class="s1">https://github.com/RosoVRgarden/RosoVRgarden_OpenXR22</span></a>) and look for the <b>cabinet</b> in the hierarchy:<span 
+#VR recipe 5 - chameleon wall (left hand)
+The <b>chameleon wall </b>shows you how to use the &lt;XR Ray Interactor&gt; to change a material from a distance (as a remote control). In the hierarchy, find for the <b>chameleon wall</b>.
 
-<p align="left"><img src="images/recipe501.png"/></p>
+<p align="left"><img src="images/recipe401.jpg"/></p>
 
-1. Once you have imported the cabinet, add &lt;XR Grab Interactable&gt; component on <b>the door </b>to get started. It includes a &lt;Rigidbody&gt;. Make sure that there is a collider attached to your object. It’s also a good idea to have handle, make sure that it is a <b>child of the door, </b>has a collider and not static as it moves.
+1. The chameleon wall is a 3D cube in the shape of a wall. You need to set a layer so only certain object will interact using &lt;XR Ray&gt; Interaction. Click on the menu next to layer and select ‘Add Layer’. Then add a layer 8 and call it ‘direct xr’ and a layer 9 and call it ‘ray xr’.
 
-<p align="left"><img src="images/recipe502.png"/></p>
+<p align="left"><img src="images/recipe402.png"/></p>
 
-<p align="left"><img src="images/recipe503.png"/></p>
+2. The next step is to add an &lt;XR Grab Interactable&gt; on the wall so we can interact with it. Interaction doesn’t mean moving something, it can be static. In order to make it static turn on the ‘Is Kinematic’ and turn off ‘Use Gravity’. Also, since it’s not moving, we can set the &lt;XR Grab Interactable&gt; Track Position, Rotation and Throw on Detach to off (0). Finally add a &lt;Box Collider&gt;.
 
-In the &lt;XR Grab Interactable&gt;, select <b>Velocity Tracking</b><i> </i>in the Movement type (see point 4) as it tracks the movement with with hinges using the physics engine. Finally, you need to add a collider in Colliders (change size to 1) and drag the <i>Door handle</i> into the Element 0 as it is the object that connects to your hand.
+<p align="left"><img src="images/recipe403.png"/></p>
 
-<p align="left"><img src="images/recipe504.png"/></p>
+3. Since we use the right hand for direct interaction, we can use the left hand for &lt;XR Ray&gt; Interaction. The VR Ray is specific to VR as it allows you to interact with object at a distance. In our case, we use it as a <b>remote control</b> so we will turn off the Force Grab and Anchor Control. The <b>Raycast Mask</b> cast needs to be set to ‘ray vr’ to limit the objects we can use. The &lt;XR Ray Interactor&gt; also requires the &lt;Line Renderer&gt; and the &lt;XR Interactor Line Visual&gt; so you can see where you are aiming at. 
 
-2. Next step is to select the door and add a &lt;Hinge Joint&gt; component. Click on the <b>Edit Angular Limit</b> to select where it is attached to (where would you normally put the hinges). Click use <b>Limits</b> to select what angles they should be open to (the limit is -180<span class="s2">°</span> to 180<span class="s2">°</span> but 0<span class="s2">°</span> to 90<span class="s2">°</span> makes more sense). The <b>Axis</b> is the plane on which your object is rotating (X axis is set to 1 to rotate around the X axis). The <b>Anchor</b> can be changed if Unity hasn’t found the edge of your door on its own. Use <b>Spring</b> option allows your to add some <b>Damper</b> and make the door feel heavier.
+<p align="left"><img src="images/recipe404.png"/></p>
 
-<p align="left"><img src="images/recipe505.png"/></p>
+4. Finally, in order to change the materials, go back to the chameleon wall, check the &lt;XR Grab Interactable&gt; and look for the On Select Entered event. Click on + then drop the chameleon wall object, then choose MeshRenderer then MeshRenderer.material and drop a material of your choice (DryWallPainted is from the URP example scene).
 
-3. The <b>drawer</b> is a little bit more tricky as it is a sliding mechanism (like sliding doors). You will also need to add &lt;XR Grab Interactable&gt; component to get started and select <i>Velocity Tracking </i>in the Movement type as it tracks the movement with more precision (using the data from the physics engine).
+<p align="left"><img src="images/recipe405.png"/></p>
 
-You can simulate a drawer using the &lt;Configurable Joints&gt; component. then change the <b>X Motion</b> (if you are moving in the X axis) to limited and others to locked if you want to move in one axis only. The next things is the <b>Linear Limit</b> which stops you moving the drawer (0.4 in this case), moving it according to your requirements.
+On Select Exited event. Click on + then drop the chameleon wall object, then choose MeshRenderer then MeshRenderer.material and drop a material of your choice (Stud_Mat is from the URP example scene).
 
-<p align="left"><img src="images/recipe506.png"/></p>
-
-4. More. The Movement Types are important in virtual reality as they are about the right use of resources in your project. Velocity Tracking is for grabables objects that require more precision (physics), kinematic offers a good representation but is less precise and instantaneous is the least precise as it moves through colliders. Use Velocity Tracking for doors and other related object and Kinematic for the rest of your project.
-
-<p align="left"><img src="images/recipe507.jpg"/></p>
+Now you should be able to change the material of the wall by pointing the ‘laser’ towards the wall. If you want more interaction, like changing more material, you will have to write your own code.
