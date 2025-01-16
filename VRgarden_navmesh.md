@@ -14,9 +14,8 @@
 
 4. Import the NavmeshAnimation.unitypackage. It contains a series of simple characters (male/female), a few standard animations (Humanoid Idle / Walk / Run / Stand Turn) and the Unity StandardClips Controller (see below).
 
-<p align="left"><img src="images/navmesh04.jpg"/></p>
-
-<p align="left"><img src="images/navmesh04B.jpg"/></p>
+<p align="left"><img src="images/navmesh04.jpg"/>
+	<img src="images/navmesh04B.jpg"/></p>
 
 <p align="left"><img src="images/navmesh05.jpg"/></p>
 
