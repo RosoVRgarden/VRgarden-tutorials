@@ -1,7 +1,7 @@
 #VR recipe 7 - Sonic Sphere Hover: Interactable (programming)
 The Sonic Sphere Hover is similar to the Sonic cylinder. It is an object that has physical properties (rigibody) and that plays sound if you hover around it with your VR hands. You could easily do the same with the Sonic cylinder technique but I want to demonstrate the use of programming. Find the <b>Sonic Sphere Hover</b> in the hierarchy.</p>
 
-<p align="left"><img src="images/recipe701.png"/></p>
+<p align="left"><img src="images/recipe701.jpg"/></p>
 
 1. It’s exactly the same as recipe 3. Create a 3D game object (a sphere this time) then add &lt;XR Grab Interactable&gt; component to get started. It should automatically install a &lt;Rigidbody&gt;. You can choose to have gravity (to fall) or be kinematic (to stay in the air). Test it !
 
@@ -11,10 +11,8 @@ The Sonic Sphere Hover is similar to the Sonic cylinder. It is an object that ha
 
 3. Add a script component, type &lt;AudioGrabColorChanger&gt;
 
-	using UnityEngine;
-	using UnityEngine.XR.Interaction.Toolkit;
-
-	// XRBaseInteractable - OBJECT
+		using UnityEngine;
+		using UnityEngine.XR.Interaction.Toolkit;
 
 		public class AudioGrabColorChanger : MonoBehaviour
 		{
