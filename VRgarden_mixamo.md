@@ -39,15 +39,15 @@ Character’s ‘T-Pose vs Character with an animation applied
 <p align="left"><img src="images/Mixamo09.jpg"/>
 <img src="images/Mixamo09B.jpg"/></p>
 
-10. Open the controller and drag and drop the @walking animation from the assets. it will create a walking animation (the meaning of this is ‘as you enter the program, start walking’).</p>
+10. Open the controller and drag and drop the @walking animation from the assets. it will create a walking animation (the meaning of this is ‘as you enter the program, start walking’).
 
 <p align="left"><img src="images/Mixamo10.jpg"/></p>
 
-11. Drag the <i>Olivia Controller</i> onto the controller in the hierarchy then press play to see the character of of Olivia with a walking animation.<span class="Apple-converted-space"> </span></p>
+11. Drag the <i>Olivia Controller</i> onto the controller in the hierarchy then press play to see the character of of Olivia with a walking animation.
 
 <p align="left"><img src="images/Mixamo11.jpg"/></p>
 
-12. Add a script on the character in the hierarchy where you set a new target then request that the animation walk to that new target (you can change the speed and the target).</p>
+12. Add a script on the character in the hierarchy where you set a new target then request that the animation walk to that new target (you can change the speed and the target).
 
 	using System.Collections;
 	using System.Collections.Generic;
@@ -79,6 +79,7 @@ Character’s ‘T-Pose vs Character with an animation applied
 				transform.LookAt(target);
 			}
 		}
+
 
 <b>More...</b></p>
 While Mixamo has easy to use characters, you can find better characters on the usual websites (Turbosquid, CGtrader, …) or specialist website such as Reallusion (<a href="https://actorcore.reallusion.com/actor"><span class="s1">https://actorcore.reallusion.com/actor</span></a>) which has rigged characters (actors) and compatible animations that you can apply on them. Unfortunately, animations are not always compatible with the rigged characters.</p>
