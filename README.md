@@ -4,7 +4,7 @@ VRgarden in School of Architecture proposes a series of tutorials to work with U
 
 ## Class
 ### [Unity 2022](VRgarden_unity2022.md)
-### [Unity 6](VRgarden_unity6.md)
+### [Unity 6](VRgarden_unity6.md) (in progress)
 
 ## Unity Setup
 ### [Basic Unity](VRgarden_basics.md)
