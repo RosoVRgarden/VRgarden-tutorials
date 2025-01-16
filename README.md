@@ -1,4 +1,4 @@
-# VRgarden tutorialss
+# VRgarden tutorials
 
 ## Class
 ### [Unity 2022](VRgarden_unity2022.md)
