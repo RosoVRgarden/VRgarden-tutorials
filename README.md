@@ -29,7 +29,7 @@
 ### [Mixamo](VRgarden_mixamo.md)
 ### [Mixamo2](VRgarden_mixamo2.md)
 ### [Character Controller 4](VRgarden_charactercontroller4.md)
-### [AI Navemesh](VRgarden_navmesh.md)
+### [AI Navmesh](VRgarden_navmesh.md)
 
 ## Extensions
 ### [Gaia Pro](VRgarden_gaiapro.md)
