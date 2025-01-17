@@ -40,6 +40,8 @@
 
 ## Ressources
 ### [Archviz pro](VRgarden_archvizPro.md)
+<BR>
+
 ## Virtual Reality Setup
 ### [Install Oculus](VRgarden_oculus.md)
-<BR>
+
