@@ -4,10 +4,8 @@
 ### [Unity 2022](VRgarden_unity2022.md)
 ### [Unity 6](VRgarden_unity6.md) (in progress)
 
-## Unity Setup
-### [Basic Unity](VRgarden_basics.md)
-
 ## Unity Tutorials
+### [Basic Unity](VRgarden_basics.md)
 ### [Terrain](VRgarden_terrain.md)
 ### [Water](VRgarden_water.md)
 
