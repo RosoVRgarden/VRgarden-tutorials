@@ -25,6 +25,12 @@
 ### [Climbable](VRgarden_climbable.md)
 <BR>
 
+## Extensions
+### [Gaia Pro](VRgarden_gaiapro.md)
+### [Microverse](VRgarden_microverse.md)
+### [Realword Terrain](VRgarden_realworld.md)
+<BR>
+
 ## Animation
 ### [Mixamo](VRgarden_mixamo.md)
 ### [Mixamo2](VRgarden_mixamo2.md)
@@ -32,13 +38,8 @@
 ### [AI Navmesh](VRgarden_navmesh.md)
 <BR>
 
-## Extensions
-### [Gaia Pro](VRgarden_gaiapro.md)
-### [Microverse](VRgarden_microverse.md)
-### [Realword Terrain](VRgarden_realworld.md)
-<BR>
-
 ## Ressources
 ### [Archviz pro](VRgarden_archvizPro.md)
 ## Virtual Reality Setup
 ### [Install Oculus](VRgarden_oculus.md)
+<BR>
