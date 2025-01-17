@@ -2,6 +2,7 @@
 
 ### Intro / briefing / demo
 ### [Install Unity 2022.3.X](VRgarden_install2022.md)
+### [Unity Basics](VRgarden_basics.md)
 ### [Collider / physics (hinge/joint/spring)]
 ### [Intro to Github]
 ### [VRgarden template / OpenXR Setup (recipe 1)](VRgarden_recipe1.md)
