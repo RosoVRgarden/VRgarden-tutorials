@@ -1,4 +1,4 @@
-# VRgarden - Water Effects
+# VRgarden tutorials: Water Effects
 
 There are many ways to create water in Unity. Is it a puddle, a small piece of water, a river, a lake or an ocean? It is recommended to use different pieces of softwares for different sizes of water. As an effect, it’s a particularly complicated one to render and since VR is a very constrained technology, it’s can be tricky to make water work. One important setting to check is the Render Mode (Edit &gt; Project Settings &gt; XR Plugin Management). The Single Pass Instanced is recommended as it is the fastest but if you can’t see the water in your headset, try Multi pass. Although it creates big files, consider Gaia Pro to create a complete environment with terrain and water. It works very well in VR and has underwater effects (see the Gaia Pro recipe).
 

@@ -1,4 +1,4 @@
-# VRgarden - Unity Navmesh and Intelligent Agents.
+# VRgarden tutorials: Animating with AI (Unity Navmesh)
 
 1. The Navmesh component allows us to define walkable surfaces for our agent and we’ll use a script that allows them to walk freely in the space. It’s the only way to create autonomous characters for free. First, create a series of cube and arrange them as to create obstacles for your agents. Put them all in one folder (an empty GameObject) called Environment.
 

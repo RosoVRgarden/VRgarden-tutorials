@@ -1,4 +1,4 @@
-# VRgarden - Basic Terrain
+# VRgarden tutorials: Basic Terrain
 
 It’s a good idea to start your project with a terrain if you plan to use grass, trees or plants, they will be optimised for speed. It is not advised to import your own trees as they won’t be optimised. Gaia Pro or Microverse are good alternative for better quality / complex terrain or flexibility with many more options but also with its own learning curve.
 
@@ -41,7 +41,7 @@ In the Unity Registry, download the <b>terrain tools</b>. If they don’t appear
 9. Go back to the menu and choose <b>Paint Texture</b>. Go to Layers and Add Layer.</p>
 Choose any layers or <i>Grass_Moss</i> for example. You can double click on the name of the layer to change some of the parameters such as the normal. You want to zoom in on the texture to see the actual result.
 	
-10. You can create you own layer in the <b>Create New Layer</b> option below such as the <i>Ground Plant</i> from one of the packages you have installed at the beginning.</p>
+10. You can create you own layer in the <b>Create New Layer</b> option below such as the <i>Ground Plant</i> from one of the packages you have installed at the beginning.
 
 <p align="left"><img src="images/terrain06.jpg"/></p>
 

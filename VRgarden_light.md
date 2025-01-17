@@ -1,4 +1,4 @@
-# RosoVRgarden - Light recipe - Building and Environment
+# VRgarden tutorials: Light recipe - Building and Environment
 
 1. Select the ‘Generate UV’ in the import setting of the asset (as well as the collider)</p>
 2. Once the building is imported and in the scene, go to the inspector and click on the arrow next to Static, choose Contribute GI and Reflection Probe Static. By doing so, you will allow the light of your building to be ‘baked’ with the texture in order to optimise the lighting.

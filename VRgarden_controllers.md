@@ -1,4 +1,5 @@
-# VRgarden - VR Interaction with Controllers
+# VRgarden tutorials: Interaction with Controllers
+
 There are many ways of doing interaction with objects and the easiest is through the Direct Interactor (hand) and the Interactable (object) through the event system (select, hover, …). Sometimes, you want to use the joystick to do a specific interaction. It’s not recommended as it is confusing the user between the immersive interaction (diegetic) and the joystick interaction (non diegetic - the controllers are not in the scene, they are outside). However, for professional applications, it can be useful. Here are some information about the names of the controllers parts and how they can be used in Unity with minimal programming.
 
 ## Features

@@ -1,4 +1,5 @@
-# VR recipe 6 - presence sphere (animation and programming)</b></p>
+# VR recipe 6: Animation (Presence Sphere)
+
 The presence sphere is an example shows how to make an animation that responds to the presence of the ‘player’. We have a collider (orange) and a Jumping sphere (silver). It is useful for making automatic doors. Look for the <b>presence sphere</b> in the hierarchy:
 
 <p align="left"><img src="images/recipe601.jpg"/></p>

@@ -1,4 +1,4 @@
-# VRgarden tutorials - pivot
+# VRgarden tutorials: Changing Pivot
  
 1. As an example, create a Cube, the pivot is at the centre (GameObject &gt; 3D Object)
 

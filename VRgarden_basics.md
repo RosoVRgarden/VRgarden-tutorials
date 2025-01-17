@@ -1,4 +1,4 @@
-# VRgarden tutorials - Unity basics
+# VRgarden tutorials: Unity basics
 
 1. The Scene Gizmo let you know in which direction you are. You can also select your view by clicking Y/X/Z as it might make it easier to place an object. The camera can also switched between &lt;Persp (perspective) and &lt;Iso (orthographic) when you click on the word.
 

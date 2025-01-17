@@ -1,4 +1,5 @@
-# VR recipe 2 - XR Direct Interactor (simple hands)</b></p>
+# VR recipe 2: XR Direct Interactor (Simple Hands)
+
 After installing Unity, enabling the XR development, OpenXR, and installing XR Toolkit, we can finally start using VR. The first step is to look at the hands for interaction. As a demo, I choose to have the right hand to interact with object directly (XR Direct Interactor) and the left hand to interact with objects at a distance (XR Ray Interactor).
 
 Under &lt;XR Origin&gt;, you have the RightHand Controller. Remove the &lt;XR Interactor Line Visual&gt;, the &lt;Line Renderer&gt; and the &lt;XR Ray Interactor&gt; (in that order or it will have some issues).

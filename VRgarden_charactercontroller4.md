@@ -1,4 +1,4 @@
-# VRgarden - Character Controller 4:
+# VRgarden tutorials: Character Controller 4
 # from making you character to exporting it to Unity.
 
 <b>Part I - Getting started with Character Controller</b></p>

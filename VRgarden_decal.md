@@ -1,4 +1,4 @@
-# RosoVRgarden tutorials - decal
+# VRgarden tutorials: decal
 
 1. Decal are materials that you use in play mode in order to make objects react interactively. For example, if you shoot on something, you can use a decal to simulate the hole of the bullet on a material. They require a few steps to setup and might cause some lagging in your rendering time, so watch out your FPS !</p>
 

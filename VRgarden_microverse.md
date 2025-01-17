@@ -1,4 +1,4 @@
-# VRgarden - Microverse Terrain Generator
+# VRgarden tutorials: Microverse Terrain Generator
 
 Terrains are fun but not very practical. Gaia Pro is a fantastic alternative but slow to implement. Microverse is a new approach that allows you to easily setup a nice looking terrain with roads, textures and trees without dealing a vast amount of data. It can do what terrain can do but it’s goal oriented (getting a result fast) and non-destructible (you can easily move stuff at the last minute and it will adapt).</p>
 

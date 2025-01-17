@@ -1,6 +1,6 @@
-# RosoVRgarden - live characters from Mixamo (Part 1).
-1. To create animation with characters, you need <b>a rigged character</b> (1) - a characters with bones that are ready for animation - and some <b>animations</b> that will work with this character (2). You can do it yourself but that’s not the topic of this tutorial.
+# VRgarden tutorials: Character Animation with Mixamo (Part 1).
 
+1. To create animation with characters, you need <b>a rigged character</b> (1) - a characters with bones that are ready for animation - and some <b>animations</b> that will work with this character (2). You can do it yourself but that’s not the topic of this tutorial.
 
 2. Mixamo (https://www.mixamo.com/) is a repository with free characters and animations. First choose a character (Olivia, for example) and download it in its T-Pose (see step 3). Then go to the animation tab and download some animations that can be gender specific (pink vs blue...). Start with a ‘Walking’, ‘Idle’ and another one such as ‘Jump’ (see step 4). You have some option to make the animation specific to your character.</p>
 

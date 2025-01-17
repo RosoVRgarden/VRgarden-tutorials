@@ -1,4 +1,4 @@
-# RosoVRgarden - Emissive Lighting (Monkey project)
+# VRgarden tutorials: Emissive Lighting (Monkey project)
 
 1. Create a new project using the <b>3D URP template</b>.<span class="Apple-converted-space"> </span></p>
 

@@ -1,4 +1,5 @@
-# VR recipe 4 - Door and Cabinet (Physics)
+# VR recipe 4: Door and Cabinet Using Unity Physics
+
 The cabinet is a simple object that shows the use of hinges (doors) and configurable joints (drawers, sliding doors). Find the example in the RosoVRgarden OpenXR project project (<a href="https://github.com/RosoVRgarden/RosoVRgarden_OpenXR22"><span class="s1">https://github.com/RosoVRgarden/RosoVRgarden_OpenXR22</span></a>) and look for the <b>cabinet</b> in the hierarchy:<span 
 
 <p align="left"><img src="images/recipe501.png"/></p>

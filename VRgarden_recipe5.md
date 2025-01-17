@@ -1,5 +1,6 @@
-#VR recipe 5 - chameleon wall (left hand)
-The <b>chameleon wall </b>shows you how to use the &lt;XR Ray Interactor&gt; to change a material from a distance (as a remote control). In the hierarchy, find for the <b>chameleon wall</b>.
+#VR recipe 5: XR Ray Interactor (Chameleon Wall)
+
+The <b>chameleon wall</b> tutorial shows you how to use the &lt;XR Ray Interactor&gt; to change a material from a distance (as a remote control). In the hierarchy, find for the <b>chameleon wall</b>.
 
 <p align="left"><img src="images/recipe401.jpg"/></p>
 

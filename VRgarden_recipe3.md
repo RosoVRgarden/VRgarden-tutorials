@@ -1,4 +1,4 @@
-#VR recipe 3: Grab Interactable: sonic cylinder
+#VR recipe 3: Grab Interactable (Sonic Cylinder)
 
 The sonic cylinder is an object that has physical properties (rigibody) and that plays sound if you select it with your VR hands. Find the <b>sonic cylinder</b> in the hierarchy:
 
@@ -10,13 +10,11 @@ The sonic cylinder is an object that has physical properties (rigibody) and that
 
 Three things: <b>XR Grab Interactable</b> + <b>Rigidbody (physics gravity)</b> + <b>Collider (skin)</b></p>
 
-2. The sound. Add a &lt;Audio Source&gt; component then import an <i>AudioClip</i> in your assets (I recommend sounddogs.com for reasonably priced professional sounds). Drag the sound from the assets to the <i>AudioClip</i> (example: parasite). Make sure that <i>Play on Awake</i> is off.<span class="Apple-converted-space"> </span></p>
+2. The sound. Add a &lt;Audio Source&gt; component then import an <i>AudioClip</i> in your assets (I recommend sounddogs.com for reasonably priced professional sounds). Drag the sound from the assets to the <i>AudioClip</i> (example: parasite). Make sure that <i>Play on Awake</i> is off.
 
 <p align="left"><img src="images/recipe303.jpg"/></p>
 
-3. Go back to the &lt;XR Grab Interactable&gt; component and look for the <i>Interactable Events</i>. You can choose when will the trigger start an event. I have chosen on select entered which when you press <i>trigger </i>on the controller. Click + then drag the <b>sonic cylinder </b>from the hierarchy to where the sonic cylinder is.
-
-Then click next to Runtime Only and select <b>AudioSource &gt; Play()</b>. When you stop selecting (stop pressing the <i>trigger), </i>your event is the On Select Exited. Click next to Runtime Only and select AudioSource &gt; Stop() or Pause() if you want to be able to resume where you stopped.
+3. Go back to the &lt;XR Grab Interactable&gt; component and look for the <i>Interactable Events</i>. You can choose when will the trigger start an event. I have chosen on select entered which when you press <i>trigger </i>on the controller. Click + then drag the <b>sonic cylinder </b>from the hierarchy to where the sonic cylinder is. Then click next to Runtime Only and select <b>AudioSource &gt; Play()</b>. When you stop selecting (stop pressing the <i>trigger), </i>your event is the On Select Exited. Click next to Runtime Only and select AudioSource &gt; Stop() or Pause() if you want to be able to resume where you stopped.
 
 <p align="left"><img src="images/recipe304.png"/></p>
 

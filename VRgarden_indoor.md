@@ -1,4 +1,4 @@
-# RosoVRgarden - Indoor Lighting (Pack Gesta project)
+# VRgarden tutorials: Indoor Lighting (Pack Gesta project)
 
 1. Create a new project using the 3D URP template.<span class="Apple-converted-space"> </span></p>
 

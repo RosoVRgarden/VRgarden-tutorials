@@ -1,4 +1,4 @@
-# VRgarden - Gaia Pro
+# VRgarden tutorials: Gaia Pro
 
 Gaia Pro is an alternative to Unity Terrain that is optimised for terrain with water, sounds, flowers and trees. The setup is much easier than Unity Terrains and can lead to better results very quickly. The setup and the moficiation
 

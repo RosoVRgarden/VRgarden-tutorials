@@ -1,4 +1,4 @@
-# VRgarden tutorials - climbable
+# VRgarden tutorials: climbable
 
 1. To make a climbable object (a wall, a ladder or your own) is rather easy but requires many steps. First, make sure that both of your hands have an <b>XR Direct Interactor</b> so you are able to climb with both hands. Then, check the templates in the Assets&gt;Samples&gt;XR Interaction Toolkit &gt; [version] &gt; Starters Assets &gt; Prefabs &gt; Climb for an example. Drag the Ladder Prefab into the RosoVR scene to test.
 

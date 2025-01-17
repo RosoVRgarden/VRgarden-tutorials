@@ -1,4 +1,4 @@
-# VRgarden ArchvizPro collection
+# VRgarden tutorials: ArchvizPro collection
 ## Archviz Pro 2
 
 <p align="left"><img src="images/archviz/archviz01.jpg"/></p>

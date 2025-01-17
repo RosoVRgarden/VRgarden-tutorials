@@ -1,19 +1,26 @@
-# VRgarden Class (Unity 2022)
+# VRgarden Class (Unity 6)
 
-VRgarden in School of Architecture proposes a series of tutorials to work with Unity in Virtual Reality. 
-
-### [Intro / briefing / demo](VRgarden_basics.md)
-### [OpenXR Setup (recipe 1)](VRgarden_basics.md)
-### [RosoXR template / Intro to Github](VRgarden_basics.md)
-### [Direct Interaction (recipe 2)](VRgarden_basics.md)
-### [Grab Interactable (recipe 3) + sound interaction](VRgarden_basics.md)
-### [Collider / physics (hinge/joint/spring)](VRgarden_basics.md)
-### [Scripting basics](VRgarden_basics.md)
-### [Doors (recipe 5) / Intro to Probuilder](VRgarden_basics.md)
-### [Chameleon wall (recipe 6) / VR layers / raycast](VRgarden_basics.md)
-### [Presence sphere (recipe 7) / animation](VRgarden_basics.md)
-### [Programming Interactable](VRgarden_basics.md)
-### [Texture / Material / Decal](VRgarden_basics.md)
-### [Light (lightmap / outdoor / indoor)](VRgarden_basics.md)
-### [Controller interactivity (hand / colour / toggle)](VRgarden_basics.md)
-### [Character animation (setup / move / patrol / ai demo)](VRgarden_basics.md)
+### [Install Unity 6]
+### [Intro / briefing / demo]
+### [Collider / physics (hinge/joint/spring)]
+### [Intro to Github]
+### [VRGarden template / OpenXR Setup (recipe 1)
+### [Direct Interaction (recipe 2)]
+### [Grab Interactable (recipe 3) + sound interaction]
+### [Scripting basics]
+### [Door and Cabinet (recipe 4)]
+### [Intro to Probuilder]
+### [Chameleon wall (recipe 5) / VR layers / raycast]
+### [Presence sphere (recipe 6) / animation]
+### [Programming Interactable]
+### [Texture / Material / Decal]
+### [Controller interactivity (hand / colour / toggle)]
+### [Light]
+#### [-Light Basics](VRgarden_light.md)
+#### [-Light Indoor](VRgarden_indoor.md)
+#### [-Emissive Light](VRgarden_monkey.md)
+### [Character animation]
+#### [-Mixamo](VRgarden_mixamo.md)
+#### [-Mixamo2](VRgarden_mixamo2.md)
+#### [-Character Controller 4](VRgarden_charactercontroller4.md)
+#### [-AI Navemesh](VRgarden_navmesh.md)

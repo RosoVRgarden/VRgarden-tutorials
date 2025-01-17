@@ -1,4 +1,4 @@
-# VR recipe 1 - OpenXR setup (using Input Action) - Unity 2022.3+
+# VR recipe 1: OpenXR Setup in Unity 2022.3+ (using Input Action)
 
 1. Launch the Unity hub and install the latest Unity 2022.3+ (LTS).</p>
 

@@ -1,4 +1,5 @@
-# VRgarden - Setting up the Meta Quest with Unity
+# VRgarden tutorials: Setting up the Meta Quest with Unity
+
 The Meta Quest is the most accessible virtual reality headset. In this setup guide, I will walk you through the steps to get your Oculus Quest up and running with Unity so that you can start making.
 Setup.
 

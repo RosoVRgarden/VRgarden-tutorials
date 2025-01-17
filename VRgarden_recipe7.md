@@ -1,5 +1,6 @@
-#VR recipe 7 - Sonic Sphere Hover: Interactable (programming)
-The Sonic Sphere Hover is similar to the Sonic cylinder. It is an object that has physical properties (rigibody) and that plays sound if you hover around it with your VR hands. You could easily do the same with the Sonic cylinder technique but I want to demonstrate the use of programming. Find the <b>Sonic Sphere Hover</b> in the hierarchy.</p>
+# VR recipe 7: XR Interactable (Sonic Sphere Hover)
+
+The Sonic Sphere Hover is similar to the Sonic cylinder. It is an object that has physical properties (rigibody) and that plays sound if you hover around it with your VR hands. You could easily do the same with the Sonic cylinder technique but I want to demonstrate the use of programming. Find the <b>Sonic Sphere Hover</b> in the hierarchy.
 
 <p align="left"><img src="images/recipe701.jpg"/></p>
 

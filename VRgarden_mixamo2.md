@@ -1,4 +1,4 @@
-# RosoVRgarden - live characters from Mixamo (Part 2).
+# VRgarden tutorials: Character Animation with Mixamo (Part 2).
 
 1. To change animation, go to the animation controller and link your animation in the following way. Set Idle has a Layer Default State (select Idle then right-click on it and choose from the menu). Between Idle and Walking, then Walking and Sneak Walk, make transitions.</p>
 <p align="left"><img src="images/Mixamo201.jpg"/></p>

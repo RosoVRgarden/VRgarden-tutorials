@@ -1,4 +1,5 @@
 # VR recipe - Install the latest Unity 2022.3+
+
 1. Download the Unity hub here: https://unity.com/download
 
 The hub allows you to create a user, manage your projects and install Unity. <br>
