@@ -4,21 +4,22 @@
 ### [Unity 2022](VRgarden_unity2022.md)
 ### [Unity 6](VRgarden_unity6.md) (in progress)
 
+
 ## Unity Tutorials
 ### [Basic Unity](VRgarden_basics.md)
 ### [Terrain](VRgarden_terrain.md)
 ### [Water](VRgarden_water.md)
 
+
 ### [Light Basics](VRgarden_light.md)
 ### [Light Indoor](VRgarden_indoor.md)
 ### [Emissive Light](VRgarden_monkey.md)
+
 
 ### [Pivot](VRgarden_pivot.md)
 ### [Sound](VRgarden_sound.md)
 ### [Decal](VRgarden_decal.md)
 
-## Virtual Reality Setup
-### [Install Oculus](VRgarden_oculus.md)
 
 ## VR Tutorials
 ### [Climbable](VRgarden_climbable.md)
@@ -36,3 +37,5 @@
 
 ## Ressources
 ### [Archviz pro](VRgarden_archvizPro.md)
+## Virtual Reality Setup
+### [Install Oculus](VRgarden_oculus.md)
