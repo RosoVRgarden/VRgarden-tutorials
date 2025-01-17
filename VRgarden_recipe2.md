@@ -10,7 +10,7 @@ Then add &lt;XR Direct Interactor&gt; so you interact with objects.
 
 <p align="left"><img src="images/recipe202.png"/></p>
 
-Next, you need to add a <b>sphere collider</b> in order to allow interaction with physical objects. Don’t forget to click next to ‘Is Trigger’ so the collider will send a message every time it collides with an other object that has a collider and a rigidbody.<
+Next, you need to add a <b>sphere collider</b> in order to allow interaction with physical objects. Don’t forget to click next to ‘Is Trigger’ so the collider will send a message every time it collides with an other object that has a collider and a rigidbody.
 
 <p align="left"><img src="images/recipe203.png"/></p>
 
