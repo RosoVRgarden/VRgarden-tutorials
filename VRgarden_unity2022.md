@@ -4,7 +4,7 @@
 ### [Install Unity 2022.3.X](VRgarden_install2022.md)
 ### [Collider / physics (hinge/joint/spring)]
 ### [Intro to Github]
-### [VRGarden template / OpenXR Setup (recipe 1)](VRgarden_recipe1.md)
+### [VRgarden template / OpenXR Setup (recipe 1)](VRgarden_recipe1.md)
 ### [Direct Interaction (recipe 2)](VRgarden_recipe2.md)
 ### [Grab Interactable (recipe 3) + sound interaction](VRgarden_recipe3.md)
 ### [Scripting basics]
