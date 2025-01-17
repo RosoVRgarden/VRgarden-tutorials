@@ -1,7 +1,7 @@
 # VRgarden Class (Unity 2022)
 
 ### [Install Unity 2022](VRgarden_install2022.md)
-### [Intro / briefing / demo]
+### Intro / briefing / demo
 ### [Collider / physics (hinge/joint/spring)]
 ### [Intro to Github]
 ### [VRGarden template / OpenXR Setup (recipe 1)](VRgarden_recipe1.md)
@@ -15,12 +15,12 @@
 ### [Programming Interactable]
 ### [Texture / Material / Decal]
 ### [Controller interactivity (hand / colour / toggle)](VRgarden_controllers.md)
-### [Light]
+### Light
 #### [-Light Basics](VRgarden_light.md)
 #### [-Light Indoor](VRgarden_indoor.md)
 #### [-Emissive Light](VRgarden_monkey.md)
-### [Character animation]
+### Character animation
 #### [-Mixamo](VRgarden_mixamo.md)
 #### [-Mixamo2](VRgarden_mixamo2.md)
 #### [-Character Controller 4](VRgarden_charactercontroller4.md)
-#### [-AI Navemesh](VRgarden_navmesh.md)
+#### [-AI Navmesh](VRgarden_navmesh.md)
