@@ -10,7 +10,6 @@
 ### [Terrain](VRgarden_terrain.md)
 ### [Water](VRgarden_water.md)
 <BR>
-
 ### [Light Basics](VRgarden_light.md)
 ### [Light Indoor](VRgarden_indoor.md)
 ### [Emissive Light](VRgarden_monkey.md)
