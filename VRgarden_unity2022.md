@@ -13,7 +13,6 @@
 ### [Intro to Probuilder]
 ### [Chameleon wall (recipe 5) / VR layers / raycast](VRgarden_recipe5.md)
 ### [Presence sphere (recipe 6) / animation](VRgarden_recipe6.md)
-### [Programming Interactable]
 ### [Texture / Material / Decal]
 ### [Controller interactivity (hand / colour / toggle)](VRgarden_controllers.md)
 ### Light
