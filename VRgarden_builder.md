@@ -1,6 +1,6 @@
 # VRgarden tutorials: VR Builder
 
-VR Builder is a tool to easily prototype VR interaction for training or other industrial purposes. It can also be used creatively in order to reduce the amount of code necessary in your application. An example is getting a key (a grabable object), put the key in a keyhole and open the door automatically. In this tutorial, you will learn the basics so you can use this tool and also decide whether it can do what you need.<
+[VR Builder](https://assetstore.unity.com/packages/tools/game-toolkits/vr-builder-pro-toolkit-for-vr-creation-301706) is a Unity asset that allows you to easily prototype VR interaction for training or other industrial purposes. It can also be used creatively in order to reduce the amount of code necessary in your application. An example is getting a key (a grabable object), put the key in a keyhole and open the door automatically. In this tutorial, you will learn the basics so you can use this tool and also decide whether it can do what you need.<
 
 1. First. Use the package manager to instal VR Builder and, optionally, another package called States and Data that is available in the VRgarden lab.
 
