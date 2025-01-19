@@ -1,4 +1,4 @@
-Here are the Unity assets available on the VRgarden computers: [VRgarden Assets](https://docs.google.com/spreadsheets/d/1x2y1gdYyp0o8gbY3wD-uo0aP3StBli9tVHWoTX45USY/edit?gid=0#gid=0)<br><br>
+Here are the manuals of some of the Unity assets available on the VRgarden computers: [VRgarden Assets](https://docs.google.com/spreadsheets/d/1x2y1gdYyp0o8gbY3wD-uo0aP3StBli9tVHWoTX45USY/edit?gid=0#gid=0)<br><br>
 
 [Digger Pro manual](https://ofux.github.io/Digger-Documentation/)<br>
 [A* Pathfinding](https://arongranberg.com/astar/docs/)<br>
