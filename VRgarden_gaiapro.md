@@ -1,6 +1,6 @@
 # VRgarden tutorials: Gaia Pro
 
-[Gaia Pro] (https://assetstore.unity.com/packages/tools/terrain/gaia-pro-2023-terrain-scene-generator-263149) is Unity asset that offers a professional alternative to Unity Terrain which is optimised for terrain with water, sounds, flowers and trees. The setup is much easier than Unity Terrains and can lead to better results very quickly. The setup and the moficiation
+[Gaia Pro](https://assetstore.unity.com/packages/tools/terrain/gaia-pro-2023-terrain-scene-generator-263149) is Unity asset that offers a professional alternative to Unity Terrain which is optimised for terrain with water, sounds, flowers and trees. The setup is much easier than Unity Terrains and can lead to better results very quickly. The setup and the moficiation
 
 1. Go to the Package Manager, download Gaia Pro and import in your project (URP).
 
