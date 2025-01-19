@@ -26,10 +26,10 @@ This tutorial teaches you a series of Unity assets and how to combine them so yo
 
 8. In Terrain, you can choose <b>Terrain</b> as a result if you want to use directly. You can generate buildings, rivers, trees and grass but they are not great. Click <b>Textures</b> to get images of the area. Add the options you require at the bottom. Choose your <b>Elevation Provider</b>.
 
-SRTM (free) - resolution of 90 meters
-Bing (free) - resolution of 90 meters for the US, 900 for the rest of the world
-SRTM30 (needs registration) - resolution of 30 meters
-MapBox (needs registration) - resolution of up to 5 meters
+SRTM (free) - resolution of 90 meters<br>
+Bing (free) - resolution of 90 meters for the US, 900 for the rest of the world<br>
+SRTM30 (needs registration) - resolution of 30 meters<br>
+MapBox (needs registration) - resolution of up to 5 meters<br>
 
 Once you are ready, click Start (bottom) and wait for the terrain to be generated.
 
