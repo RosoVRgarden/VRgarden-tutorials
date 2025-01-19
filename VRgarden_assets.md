@@ -1,8 +1,8 @@
 Here are the Unity assets available on the VRgarden computers: [VRgarden Assets](https://docs.google.com/spreadsheets/d/1x2y1gdYyp0o8gbY3wD-uo0aP3StBli9tVHWoTX45USY/edit?gid=0#gid=0)
 
 [Digger Pro manual](https://ofux.github.io/Digger-Documentation/)
-[A* Pathfinding] (https://arongranberg.com/astar/docs/)
-[Autohand] (https://earnest-robot.gitbook.io/auto-hand-docs)
+[A* Pathfinding](https://arongranberg.com/astar/docs/)
+[Autohand](https://earnest-robot.gitbook.io/auto-hand-docs)
 [Dotween](https://dotween.demigiant.com/pro.php#dotweenAnimation)
 [Emerald AI](https://black-horizon-studios.gitbook.io/emerald-ai-wiki/getting-started/getting-started)
 [Gaia Pro](https://canopy.procedural-worlds.com/library/tools/gaia-pro-2021/)
