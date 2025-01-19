@@ -20,7 +20,7 @@
 ### [Sound](VRgarden_sound.md)
 <BR>
 
-### [Climbable](VRgarden_climbable.md)
+### [VR Climbable](VRgarden_climbable.md)
 
 ## Animation
 ### [Mixamo](VRgarden_mixamo.md)
