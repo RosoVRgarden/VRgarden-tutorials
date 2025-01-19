@@ -63,7 +63,7 @@ In the Gaia Tools, select the <b>Stamper.</b> If the area is too flat, you can c
 
 14. When you are ready, click on <b>Spawn Biome</b> (bottom)
 
-15. Then click <b>Create Runtime</b> in order to have moving water, clouds, wind, …. You can change the runtime for a different time of the day in the manager. See Stamper Introduction for more info (<a href="https://canopy.procedural-worlds.com/library/tools/gaia-pro-2021/written-articles/creating_your_world/2-stamper-introduction-r46/"><span class="s2">https://canopy.procedural-worlds.com/library/tools/gaia-pro-2021/written-articles/creating_your_world/2-stamper-introduction-r46/</span></a>)</span>
+15. Then click <b>Create Runtime</b> in order to have moving water, clouds, wind, …. You can change the runtime for a different time of the day in the manager. See [Stamper Introduction](https://canopy.procedural-worlds.com/library/tools/gaia-pro-2021/written-articles/creating_your_world/2-stamper-introduction-r46/")
 
 16. The scene can be particularly big to move around, you may want to add some navigation cubes or install an extension such as Scene Navigator from the package manager to record key positions.
 
