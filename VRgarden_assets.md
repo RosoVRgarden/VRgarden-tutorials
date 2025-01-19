@@ -4,7 +4,7 @@ Here are the manuals of some of the Unity assets available on the VRgarden compu
 [Amplify Impostor](https://wiki.amplify.pt/index.php?title=Unity_Products:Amplify_Impostors/Manual)<br>
 [Animancer](https://kybernetik.com.au/animancer/)<br>
 [Autohand](https://earnest-robot.gitbook.io/auto-hand-docs)<br>
-[Simple Bicycle](/_pdf/Simple_Bicycle.pdf)<br>
+[Simple Bicycle](https://drive.google.com/open?id=1-H-WWHuvnezENbe44Fs5-okUNgYPIWnb&usp=drive_fs))<br>
 [Digger Pro manual](https://ofux.github.io/Digger-Documentation/)<br>
 [Dotween](https://dotween.demigiant.com/pro.php#dotweenAnimation)<br>
 [Emerald AI](https://black-horizon-studios.gitbook.io/emerald-ai-wiki/getting-started/getting-started)<br>
