@@ -6,7 +6,7 @@
 <BR>
 
 ## Unity Tutorials
-### [VRgarden Assets User Manuals](VRgarden_manuals.md)
+### [VRgarden Assets User Manuals](VRgarden_assets.md)
 ### [Basic Unity](VRgarden_basics.md)
 ### [Terrain](VRgarden_terrain.md)
 ### [Gaia Pro](VRgarden_gaiapro.md)
