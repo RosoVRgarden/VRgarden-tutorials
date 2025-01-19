@@ -330,7 +330,7 @@ There are many ways of doing interaction with objects and the easiest is through
  	   }
 	}
 
-5. ColorObject and ToggleObject in the Inspector</b></p>
+5. ColorObject and ToggleObject in the Inspector
 
 <p align="left"><img src="images/interaction03.jpg"/></p>
 <p align="left"><img src="images/interaction04.jpg"/></p>
