@@ -1,6 +1,8 @@
 # VRgarden tutorials: Real World Terrain + Gaia Stampers + Digger
 
-1. Install the Real World Terrain Helper + Gaia Pro from the Package Manager
+This tutorial teaches you a series of Unity assets and how to combine them so you can use satellite image to get a snapshot of your site, then transfert the result into a terrain assets so you can edit the site and finally learn how to dig into that site. You can use the tutorial partially or in its totality. 
+
+1. Install the [Real World Terrain Helper](https://assetstore.unity.com/packages/tools/terrain/real-world-terrain-8752) + [Gaia Pro](https://assetstore.unity.com/packages/tools/terrain/gaia-pro-2023-terrain-scene-generator-263149) from the Package Manager
 
 2. Open Real World Terrain
 
@@ -65,9 +67,9 @@ In the Gaia Tools, select the <b>Stamper.</b> If the area is too flat, you can c
 
 16. The scene can be particularly big to move around, you may want to add some navigation cubes or install an extension such as Scene Navigator from the package manager to record key positions.
 
-17. To create some digging in the mountain, there are two possibilities. First is simple with a reasonable quality: Install Digger - Terrain Caves &amp; Overhangs from the Assets in the package manager and make sure that Mathematica and Burst are to the latest version in Unity Registry.
+17. To create some digging in the mountain, use the [Digger Pro asset](https://assetstore.unity.com/packages/tools/terrain/digger-pro-voxel-enhanced-terrains-149753). Install Digger Pro from the Assets in the package manager and make sure that Mathematica and Burst are to the latest version in Unity Registry.
 
-18. To use the Digger, go to the new Tools menu, select Digger &gt; Setup Terrains.
+18. To use the Digger Pro, go to the new Tools menu, select Digger &gt; Setup Terrains.
 
 <p align="left"><img src="images/realworld11.jpg"/></p>
 
