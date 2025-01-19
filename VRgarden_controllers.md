@@ -330,12 +330,12 @@ There are many ways of doing interaction with objects and the easiest is through
  	   }
 	}
 
-5. ColorObject and ToggleObject in the Inspector
+#### ColorObject and ToggleObject in the Inspector
 
-<p align="left"><img src="images/interaction03.jpg"/></p>
-<p align="left"><img src="images/interaction04.jpg"/></p>
+<p align="left"><img src="images/interaction03.jpg"/>
+<img src="images/interaction04.jpg"/></p>
 
-6. Next to Color Reference or Toggle Reference, choose XRI LeftHand [RightHand] Interaction /Activate [Select] Value [Nothing]
+#### Next to Color Reference or Toggle Reference, choose XRI LeftHand [RightHand] Interaction /Activate [Select] Value [Nothing]
 
 By default <b>Activate is the trigger</b> (bottom) and <b>Select is the grip button </b>(side) but it can be changed.
 
