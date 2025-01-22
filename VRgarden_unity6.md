@@ -1,10 +1,11 @@
 # VRgarden Class (Unity 6)
 
-### [Install Unity 6]
 ### [Intro / briefing / demo]
+### [Install Unity 6]
+### [Unity Basics](VRgarden_basics.md)
 ### [Collider / physics (hinge/joint/spring)]
 ### [Intro to Github]
-### [VRGarden template / OpenXR Setup (recipe 1)
+### [VRGarden template / OpenXR Setup (recipe 1)]
 ### [Direct Interaction (recipe 2)]
 ### [Grab Interactable (recipe 3) + sound interaction]
 ### [Scripting basics]
@@ -12,7 +13,6 @@
 ### [Intro to Probuilder]
 ### [Chameleon wall (recipe 5) / VR layers / raycast]
 ### [Presence sphere (recipe 6) / animation]
-### [Programming Interactable]
 ### [Texture / Material / Decal]
 ### [Controller interactivity (hand / colour / toggle)]
 ### [Light]
